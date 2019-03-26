@@ -1,2 +1,2 @@
-﻿这是一个测试的git啊
+﻿这真是一个测试的git啊
 this is a test!
